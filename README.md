@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Java, Data structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://iamarthur.web.app](https://iamarthur.web.app)
+- 👨‍💻 All of my projects are available at [my website](https://iamarthur.web.app)
 
-- 📝 I sometimes write articles on [https://blog-lamepic.vercel.app/](https://blog-lamepic.vercel.app/)
+- 📝 I sometimes write articles on [my blog](https://blog-lamepic.vercel.app/)
 
 - 📫 How to reach me **richardarthur228@gmail.com**
 
