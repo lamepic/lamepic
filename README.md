@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Data structures and Algorithms**
 
-- 💬 Ask me about abstract concepts and interesting stuff 
+- 💬 Ask me about abstract concepts and rational ideas 
 
 - 📝 I sometimes write articles on [my blog](https://blog-lamepic.vercel.app/)
 
