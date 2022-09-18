@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">A Fullstack developer</h3>
 
-- 🌱 I’m currently learning **Java, Data structures and Algorithms**
+- 🌱 I’m currently learning **Java and DSA**
 
 - 💬 Ask me about abstract concepts and rational ideas 
 
