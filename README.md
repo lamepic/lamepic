@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A Fullstack Software Engineer</h3>
 
-- 🌱 I’m currently learning **Java, DSA, and Design Patterns**
+- 🌱 I’m currently learning about **Scalable Architectures, Design Patterns and LLMs**
 
-- 💬 Ask me about abstract concepts and rational ideas 
+- 💬 Ask me about abstract concepts and rational ideas.
 
-- 📝 I sometimes write articles on [my blog](https://blog-lamepic.vercel.app/)
+- 📝 I sometimes write articles - [blog](https://richardarthur.me/blog)
 
 
 <div align='center' style="margin: 0 auto">
